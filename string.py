@@ -1,3 +1,3 @@
 s1= "hello world"
 print(s1)
-print(len(s1))gfhfhjghjghjg
+print(len(s1))
